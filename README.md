@@ -1,5 +1,5 @@
 # JS
-### Домашнее задание 1
+### Домашнее заданиe 1
 ### Файлы:
 ### my first HW JS.html
 ### my first HW JS.js
@@ -161,7 +161,7 @@
         checkAge3(17)
         checkAge3(18)
         checkAge3(61)
-        checkAge3('22dgsrh')
+        checkAge3('2')
 
 37. Преобразовать задание 36 таким образом, чтобы возраст выводился используя функцию prompt в привязанной верстке
     - Создан файл my first HW JS.html:

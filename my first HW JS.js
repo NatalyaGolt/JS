@@ -96,7 +96,7 @@ const checkAge2 = function(age_1_35) {
 checkAge2(17)
 checkAge2(18)
 checkAge2(61)
-checkAge2('Abrakadabra')
+checkAge2('2')
 
 
 
@@ -120,7 +120,7 @@ age_1_36 = Number(age_1_36)
 checkAge3(17)
 checkAge3(18)
 checkAge3(61)
-checkAge3('22dgsrh')
+checkAge3('2')
 
 
 let age_2_37 = 18
